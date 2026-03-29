@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 [![About Me](https://tamizharasan.netlify.app/)]
+
 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
