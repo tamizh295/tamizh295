@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tamizharasan%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🧑‍💻 Profile Photo (Circle) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/tamizh295?v=4" width="140" style="border-radius:50%; border:3px solid #00F7FF;" />
-</p>
-
 <!-- ⚡ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Tamizharasan+-+Full+Stack+Developer+India;Freelance+Web+Developer;Cyber+Security+Student;React+%7C+Next.js+%7C+Node.js+Expert" />
