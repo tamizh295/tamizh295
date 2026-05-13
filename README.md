@@ -88,14 +88,15 @@
 
 ## 🚀 Featured Projects
 
-🔐 **XSS Scanner Tool**  
-→ Detect vulnerabilities in web apps  
+🔐 **Voip Osint **  
+→It is an advanced, CLI-based threat intelligence tool built for law enforcement.  
 
-🌐 **Full Stack SaaS App**  
-→ Next.js + Node.js + MongoDB  
+🛡️ **Content DNA Apex **
+Forensic Infrastructure & Analog Hole Defense
 
 🧑‍💼 **Portfolio with Admin Panel**  
 → Dynamic content management  
+
 
 ---
 
